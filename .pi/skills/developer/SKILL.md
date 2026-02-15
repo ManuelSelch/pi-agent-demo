@@ -11,6 +11,10 @@ This document outlines the core skills, competencies, and expectations for an **
 
 ## 1. Core Technical Skills
 
+### Input
+- read input from ./REQUIREMENTS.md file
+- this is your input content of all requirements to implement
+
 ### Test-Driven Development (TDD) — Core Principle
 
 * Strong, disciplined practice of **Test-Driven Development** as the default workflow
